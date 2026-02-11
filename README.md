@@ -49,9 +49,21 @@ Orders
 1. Accuracy of query results vs raw data
 2. Completeness of insights
 
-
+EW
 ## Milestones / Workflow 
 **Collect --> Analyze --> Report
+
+
+## Results
+1. Product_Sales by category
+   "C:\Users\kalai\OneDrive\Pictures\Screenshots\Screenshot 2026-02-11 110942.png"
+
+2. MOnthly Revenue Trend
+   "C:\Users\kalai\OneDrive\Pictures\Screenshots\Screenshot 2026-02-11 111952.png"
+
+3. Revenue by Product
+   "C:\Users\kalai\OneDrive\Pictures\Screenshots\Screenshot 2026-02-11 112027.png"
+
 
 
 ## License 
